@@ -1,6 +1,6 @@
 # Notes on Future Constitutionalism
 
-未来宪制札记
+《未来宪制札记》
 
 This repository archives the initial canonical draft of “Notes on Future Constitutionalism,” a theoretical project on how the protected object of modern constitutionalism shifts as power moves from external coercion toward the internal conditions of judgment, attention, identity, self-revision, and subject formation.
 
@@ -61,11 +61,13 @@ This volume explores possible legal forms for subject naming, experience formati
 
 ## Repository structure
 
-* `essay.md` — main essay
-* `notes/` — future volume notes and individual essays
-* `CITATION.cff` — citation metadata
-* `LICENSE` — reuse license
-* `README.md` — repository overview
+## Repository structure
+
+- `README.md` — project overview and full Chinese framework
+- `CITATION.cff` — machine-readable citation metadata
+- `LICENSE` — reuse license
+
+Future essays and volume notes will be added in later versions.
 
 ## Citation
 
