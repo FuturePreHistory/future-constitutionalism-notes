@@ -1,0 +1,40 @@
+cff-version: "1.2.0"
+message: "If you cite this repository, please cite it as below."
+
+authors:
+
+* name: "FuturePreHistory Archive"
+  alias: "FuturePreHistory"
+
+title: "Notes on Future Constitutionalism"
+version: "0.1.0"
+date-released: "2026-07-13"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/FuturePreHistory/future-constitutionalism-notes"
+url: "https://github.com/FuturePreHistory/future-constitutionalism-notes"
+
+keywords:
+
+* "future constitutionalism"
+* "AI governance"
+* "constitutional theory"
+* "public reality"
+* "verification bandwidth"
+* "cognitive infrastructure"
+* "subject boundaries"
+* "future subject law"
+* "constitutional rights"
+* "public contestability"
+
+abstract: "This repository archives the initial canonical draft of Notes on Future Constitutionalism, a theoretical project on how modern constitutionalism may need to protect the conditions of judgment, attention, identity, self-revision, and subject formation as power shifts from external coercion toward cognitive and generative infrastructures."
+
+preferred-citation:
+type: generic
+authors:
+- name: "FuturePreHistory Archive"
+alias: "FuturePreHistory"
+title: "Notes on Future Constitutionalism"
+year: 2026
+version: "0.1.0"
+url: "https://github.com/FuturePreHistory/future-constitutionalism-notes"
+date-released: "2026-07-13"
