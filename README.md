@@ -61,8 +61,6 @@ This volume explores possible legal forms for subject naming, experience formati
 
 ## Repository structure
 
-## Repository structure
-
 - `README.md` — project overview and full Chinese framework
 - `CITATION.cff` — machine-readable citation metadata
 - `LICENSE` — reuse license
@@ -71,7 +69,7 @@ Future essays and volume notes will be added in later versions.
 
 ## Citation
 
-FuturePreHistory Archive. Notes on Future Constitutionalism. Version 0.1.0. GitHub, 2026.
+FuturePreHistory Archive. Notes on Future Constitutionalism. Version 0.1.1. GitHub, 2026.
 
 See [CITATION.cff](CITATION.cff) for machine-readable citation metadata.
 
