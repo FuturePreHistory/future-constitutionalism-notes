@@ -8,6 +8,7 @@ authors:
 title: "Notes on Future Constitutionalism"
 version: "0.1.1"
 date-released: "2026-07-14"
+doi: "10.5281/zenodo.21359493"
 license: "CC-BY-4.0"
 repository-code: "https://github.com/FuturePreHistory/future-constitutionalism-notes"
 url: "https://github.com/FuturePreHistory/future-constitutionalism-notes"
@@ -34,5 +35,6 @@ preferred-citation:
   title: "Notes on Future Constitutionalism"
   year: 2026
   version: "0.1.1"
+  doi: "10.5281/zenodo.21359493"
   url: "https://github.com/FuturePreHistory/future-constitutionalism-notes"
   date-released: "2026-07-14"
