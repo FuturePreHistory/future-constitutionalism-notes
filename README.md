@@ -71,7 +71,7 @@ Future essays and volume notes will be added in later versions.
 
 ## Citation
 
-FuturePreHistory Archive. Notes on Future Constitutionalism. Version 0.1.1. GitHub, 2026.
+FuturePreHistory Archive. Notes on Future Constitutionalism. Version 0.1.1. Zenodo, 2026. DOI: 10.5281/zenodo.21359493.
 
 See [CITATION.cff](CITATION.cff) for machine-readable citation metadata.
 
